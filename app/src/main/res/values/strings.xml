@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="jezyki_programowania">
+        <item>c#</item>
+        <item>c++</item>
+        <item>c</item>
+        <item>Java</item>
+        <item>python</item>
+        <item>php</item>
+        <item>kotlin</item>
+    </string-array>
 </resources>
